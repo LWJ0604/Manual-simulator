@@ -2,7 +2,7 @@
 
 [최신 릴리스 및 첨부 파일](https://github.com/LWJ0604/Manual-simulator/releases/latest)
 
-실행용 파일은 릴리스의 **Assets**에서 확인하세요. 현재 첨부된 파일은 소스 ZIP이며, Windows 실행용 ZIP은 아직 첨부되지 않았습니다.
+실행용 파일은 릴리스의 **Assets**에서 확인하세요. Windows에서 실행하려면 `Lab-Offline-Trainer-Windows-x64-v1.18.0.zip`을 다운로드하세요. 소스 ZIP도 별도로 첨부되어 있습니다.
 
 
 NDL은 연구실 장비의 조작 순서를 사진과 화면을 보며 연습하는 Windows용 오프라인 앱입니다. 장비와 절차를 선택하고, 버튼·밸브·확인 항목을 따라 진행합니다. 필요한 부분은 확대해서 보고, 중간에 저장한 연습은 나중에 이어갈 수 있습니다.
